@@ -1,0 +1,32 @@
+_repo: British-Committees-Commissions-and-Councils-of-Trade-and-Plantations-1622-1675_33313
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, Charles McLean
+    alias: Andrews, Charles M.
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '34215'
+    url: http://www.gutenberg.org/2009/agents/34215
+description: ''
+gutenberg_issued: '2010-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33313'
+  lccn: 08022803
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Colonies -- Administration -- History -- 19th century'
+- !lcc 'H'
+- !lcsh 'Great Britain. Board of Trade -- Antecedents'
+- !lcc 'JA'
+- !lcsh 'Great Britain -- Colonies -- Administration -- History -- 17th century'
+- !lcsh 'Great Britain -- Commercial policy -- History -- 17th century'
+title: British Committees, Commissions, and Councils of Trade and Plantations, 1622-1675
+url: http://www.gutenberg.org/ebooks/33313
