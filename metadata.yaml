@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34215'
     url: http://www.gutenberg.org/2009/agents/34215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33313#British-Committees-Commissions-and-Councils-of-Trade-and-Plantations-1622-1675
 gutenberg_issued: '2010-08-01'
 gutenberg_type: Text
 identifiers:
